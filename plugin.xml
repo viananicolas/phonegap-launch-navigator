@@ -119,6 +119,13 @@
         <string>baidumap</string>
         <string>taxis99</string>
         <string>iosamap</string>
+        <string>zelle</string>
+        <string>com.zellepay.zelle</string>
+        <string>comgooglemaps</string>
+        <string>comgooglemaps-x-callback</string>
+        <string>navigation</string>
+        <string>iosamap</string>
+        <string>itms-apps</string>
       </array>
     </config-file>
 
